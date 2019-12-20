@@ -65,11 +65,6 @@ describe('TEST THE WINDOW', function() {
 
     });
 
-    it("Search for any entry which contains value '160'", async function() {
-
-
-    });
-
     it("Check if any items are present after the search", async function() {
 
     });
